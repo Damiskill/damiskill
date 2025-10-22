@@ -1,4 +1,4 @@
-# 👋 Emmanuel Philip (Damiskill)
+# Emmanuel Philip (Damiskill)
 
 🎯 **Data Analyst | Data Scientist | AI Explorer**  
 Welcome to my GitHub profile! I’m passionate about using **data and AI** to drive insights, automation, and innovation.  
