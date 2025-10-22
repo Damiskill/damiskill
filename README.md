@@ -51,3 +51,8 @@ From cleaning messy datasets to building interactive dashboards and machine lear
 ---
 
 ✨ _“Data is the new oil — I refine it into insights that power innovation.”_
+
+---
+
+If my work adds value to yours, consider leaving a ⭐ and following me. Every bit of support helps grow this learning community.
+
