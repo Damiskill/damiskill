@@ -6,11 +6,13 @@ From cleaning messy datasets to building interactive dashboards and machine lear
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on: Data visualization projects with Power BI and SQL
-- 🌱 I’m learning: Advanced DAX, Python for analytics, and cloud data integration
-- 💬 Ask me about: Excel analytics, Power BI dashboards, SQL queries, and data storytelling
-- ⚡ Fun fact: I enjoy turning raw data into insightful visual stories
+## 🚀 About Me  
+- 🔭 Currently exploring advanced **AI and predictive analytics**  
+- 📊 Skilled in Python, SQL, Excel and Power BI for **data storytelling** 
+- 🧠 Passionate about **machine learning** and automation projects  
+- 🌱 Always learning something new in the data & AI ecosystem  
+- 💬 Ask me about: SQL, Python, Power BI, Excel, or anything data-driven!  
+- ⚡ Fun fact: I see data patterns the way artists see colors 🎨  
 
 ---
 
