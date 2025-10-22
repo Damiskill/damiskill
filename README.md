@@ -1,4 +1,4 @@
-![Damiskill Banner](YOUR_IMAGE_LINK_HERE)
+![Damiskill Banner]([YOUR_IMAGE_LINK_HERE](https://github.com/Damiskill/damiskill/blob/main/damsikill%20banner.png))
 
 # 👋 Hi, I'm Emmanuel Philip (Damiskill)
 
